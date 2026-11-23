@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("Hello, people!")
+print("Hello, again!")
+print("Hello, Humans!")
+print("Hello, everyone!")
